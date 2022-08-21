@@ -1,0 +1,27 @@
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csprojAssemblyReference.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache
+D:\Fatih 2022\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+D:\Fatih 2022\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+D:\Fatih 2022\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+D:\Fatih 2022\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+D:\Fatih 2022\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+D:\Fatih 2022\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+D:\Fatih 2022\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.AssemblyReference.cache
+D:\Fatih 2022\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatih 2022\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+D:\Fatih 2022\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+D:\Fatih 2022\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+D:\Fatih 2022\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+D:\Fatih 2022\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+D:\Fatih 2022\C# Örnek Projelerim\Paylaşılmayanlar\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache
